@@ -11,6 +11,9 @@
 <h3 align="left">Tabla de contenidos</h3>
 
  <ul align="left">
-   <li><a href="./Tipos de Valores (data types).md"> Mini Resumen Operadores Básicos MySQL (formato póster)</a></li>
-   <li><a href="./Variables, tipos y su scope.md"> Resumen Rápido Operadores Básicos MySQL</a></li>
+   <li><a href="./mini_poster_basic_operators.png"> Mini Resumen Operadores Básicos MySQL (formato póster)</a></li>
+   <li><a href="./referencia_rapida_mysql.pdf"> Resumen Rápido Operadores Básicos MySQL</a></li>
  </ul>
+
+## Support Me 🤍
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?style=for-the-badge&logo=ko-fi&logoColor=white&color=ff69b4)](https://ko-fi.com/cristinamateos11)
